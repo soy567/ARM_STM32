@@ -1,0 +1,30 @@
+# CubeIDE metadata
+.metadata
+
+# CubeIDE file
+.settings
+Debug
+*.launch
+*.ld
+Drivers
+Startup
+stm32f1xx_hal_msp.c
+stm32f1xx_it.c
+syscalls.c
+sysmem.c
+system_stm32f1xx.c
+stm32f1xx_hal_conf.h
+stm32f1xx_it.h
+.cproject
+.mxproject
+.project
+
+# Datasheet
+datasheet
+
+# schematic
+circuit
+schematic
+
+# pdf file
+*.pdf
